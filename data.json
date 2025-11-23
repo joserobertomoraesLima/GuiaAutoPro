@@ -1,0 +1,322 @@
+[
+  {
+    "nome": "Volkswagen Polo",
+    "categoria": "hatch",
+    "marca": "Volkswagen",
+    "modelo": "Comfortline 200 TSI",
+    "descricao": "Hatch moderno e tecnológico, com excelente dirigibilidade e motor turbo eficiente.",
+    "foto": "./img/polo.webp"
+  },
+  {
+    "nome": "Hyundai HB20",
+    "categoria": "hatch",
+    "marca": "Hyundai",
+    "modelo": "Platinum Plus",
+    "descricao": "Compacto com design arrojado e bom conjunto de equipamentos de segurança e conforto.",
+    "foto": "./img/hb20.webp"
+  },
+  {
+    "nome": "Renault Kwid",
+    "categoria": "hatch",
+    "marca": "Renault",
+    "modelo": "Outsider",
+    "descricao": "Subcompacto econômico, ideal para o trânsito urbano, com visual aventureiro.",
+    "foto": "./img/kwid.jpg"
+  },
+  {
+    "nome": "Peugeot 208",
+    "categoria": "hatch",
+    "marca": "Peugeot",
+    "modelo": "Griffe",
+    "descricao": "Hatch francês com design sofisticado, teto panorâmico e interior diferenciado (i-Cockpit).",
+    "foto": "./img/208.jpg"
+  },
+  {
+    "nome": "Ford Fiesta",
+    "categoria": "hatch",
+    "marca": "Ford",
+    "modelo": "Titanium Plus",
+    "descricao": "Modelo reconhecido pela dirigibilidade esportiva e bom acabamento interno.",
+    "foto": "./img/fiesta.jpg"
+  },
+  {
+    "nome": "Chevrolet Celta",
+    "categoria": "hatch",
+    "marca": "Chevrolet",
+    "modelo": "Life",
+    "descricao": "Popular confiável e de baixo custo de manutenção, um clássico do mercado nacional.",
+    "foto": "./img/celta.jpg"
+  },
+  {
+    "nome": "Honda Fit",
+    "categoria": "hatch",
+    "marca": "Honda",
+    "modelo": "EXL",
+    "descricao": "Monovolume compacto famoso pelo sistema de bancos Magic Seat, oferecendo excelente versatilidade.",
+    "foto": "./img/fit.jpg"
+  },
+  {
+    "nome": "Citroën C3",
+    "categoria": "hatch",
+    "marca": "Citroën",
+    "modelo": "Live Pack",
+    "descricao": "Hatch com estilo aventureiro e confortável, destacando-se pela suspensão elevada.",
+    "foto": "./img/c3.jpg"
+  },
+  {
+    "nome": "Nissan March",
+    "categoria": "hatch",
+    "marca": "Nissan",
+    "modelo": "SL",
+    "descricao": "Compacto ágil e econômico, ideal para o uso diário em grandes cidades.",
+    "foto": "./img/march.jpg"
+  },
+  {
+    "nome": "Fiat Uno",
+    "categoria": "hatch",
+    "marca": "Fiat",
+    "modelo": "Mille Fire",
+    "descricao": "Compacto raiz, conhecido por ser econômico, robusto e extremamente fácil de manter.",
+    "foto": "./img/uno.jpg"
+  },
+  {
+    "nome": "Honda Civic",
+    "categoria": "sedan",
+    "marca": "Honda",
+    "modelo": "Touring",
+    "descricao": "Sedan médio com pegada esportiva, famoso pela durabilidade e tecnologia embarcada.",
+    "foto": "./img/civic.jpg"
+  },
+  {
+    "nome": "Nissan Sentra",
+    "categoria": "sedan",
+    "marca": "Nissan",
+    "modelo": "Exclusive",
+    "descricao": "Sedan médio com foco em conforto, acabamento refinado e porta-malas generoso.",
+    "foto": "./img/sentra.jpg"
+  },
+  {
+    "nome": "Volkswagen Virtus",
+    "categoria": "sedan",
+    "marca": "Volkswagen",
+    "modelo": "Highline 200 TSI",
+    "descricao": "Sedan compacto derivado do Polo, oferece ótimo espaço interno e motor turbo eficiente.",
+    "foto": "./img/virtus.jpg"
+  },
+  {
+    "nome": "Fiat Cronos",
+    "categoria": "sedan",
+    "marca": "Fiat",
+    "modelo": "Precision",
+    "descricao": "Sedan compacto com design moderno e bom custo-benefício, ideal para a família.",
+    "foto": "./img/cronos.jpg"
+  },
+  {
+    "nome": "Ford Fusion",
+    "categoria": "sedan",
+    "marca": "Ford",
+    "modelo": "SEL EcoBoost",
+    "descricao": "Sedan executivo grande e potente, com acabamento premium e motor turbo forte.",
+    "foto": "./img/fusion.jpg"
+  },
+  {
+    "nome": "BMW Série 3",
+    "categoria": "sedan",
+    "marca": "BMW",
+    "modelo": "320i M Sport",
+    "descricao": "Sedan premium alemão, referência em desempenho e prazer ao dirigir.",
+    "foto": "./img/BMW.jpg"
+  },
+  {
+    "nome": "Mercedes-Benz Classe C",
+    "categoria": "sedan",
+    "marca": "Mercedes-Benz",
+    "modelo": "C 180 Exclusive",
+    "descricao": "Sedan de luxo com design elegante, alta tecnologia embarcada e interior sofisticado.",
+    "foto": "./img/Mercedes.jpg"
+  },
+  {
+    "nome": "Kia Cerato",
+    "categoria": "sedan",
+    "marca": "Kia",
+    "modelo": "SX",
+    "descricao": "Sedan com visual esportivo e boa lista de itens de série, com foco no design sul-coreano.",
+    "foto": "./img/cerato.jpg"
+  },
+  {
+    "nome": "Renault Logan",
+    "categoria": "sedan",
+    "marca": "Renault",
+    "modelo": "Intense",
+    "descricao": "Sedan popular com destaque para o amplo espaço interno e baixo custo operacional.",
+    "foto": "./img/logan.jpg"
+  },
+  {
+    "nome": "Audi A4",
+    "categoria": "sedan",
+    "marca": "Audi",
+    "modelo": "Prestige",
+    "descricao": "Sedan de luxo com tração integral quattro disponível e acabamento interno impecável.",
+    "foto": "./img/audi.jpg"
+  },
+  {
+    "nome": "Hyundai Creta",
+    "categoria": "suv",
+    "marca": "Hyundai",
+    "modelo": "Ultimate",
+    "descricao": "SUV compacto com design moderno, motorização turbo e bom pacote de tecnologia.",
+    "foto": "./img/creta.webp"
+  },
+  {
+    "nome": "Nissan Kicks",
+    "categoria": "suv",
+    "marca": "Nissan",
+    "modelo": "Advance",
+    "descricao": "SUV compacto focado em economia e dirigibilidade suave, ideal para a cidade.",
+    "foto": "./img/kicks.jpg"
+  },
+  {
+    "nome": "Volkswagen T-Cross",
+    "categoria": "suv",
+    "marca": "Volkswagen",
+    "modelo": "Sense",
+    "descricao": "SUV compacto da VW com versatilidade no porta-malas e motores TSI confiáveis.",
+    "foto": "./img/tcross.jpg"
+  },
+  {
+    "nome": "Chery Tiggo 8",
+    "categoria": "suv",
+    "marca": "Chery",
+    "modelo": "Pro Max Drive",
+    "descricao": "SUV de 7 lugares com alta tecnologia, acabamento premium e bom custo-benefício.",
+    "foto": "./img/tigger8.jpg"
+  },
+  {
+    "nome": "Volvo XC60",
+    "categoria": "suv",
+    "marca": "Volvo",
+    "modelo": "T8 R-Design",
+    "descricao": "SUV híbrido plug-in premium, destaque em segurança e performance esportiva.",
+    "foto": "./img/volvoxc.jpg"
+  },
+  {
+    "nome": "Land Rover Discovery",
+    "categoria": "suv",
+    "marca": "Land Rover",
+    "modelo": "HSE",
+    "descricao": "SUV grande de luxo, com excelente capacidade off-road e espaço para a família.",
+    "foto": "./img/landrover.jpg"
+  },
+  {
+    "nome": "Mitsubishi Eclipse Cross",
+    "categoria": "suv",
+    "marca": "Mitsubishi",
+    "modelo": "HPE-S",
+    "descricao": "SUV com design cupê arrojado e tração integral, ideal para diferentes terrenos.",
+    "foto": "./img/eclipse.jpg"
+  },
+  {
+    "nome": "Subaru Forester",
+    "categoria": "suv",
+    "marca": "Subaru",
+    "modelo": "S-Edition",
+    "descricao": "SUV com tração simétrica e motor boxer, conhecido pela confiabilidade japonesa.",
+    "foto": "./img/subaru.jpg"
+  },
+  {
+    "nome": "Suzuki Jimny",
+    "categoria": "suv",
+    "marca": "Suzuki",
+    "modelo": "Sierra 4Sport",
+    "descricao": "Jipe compacto e robusto, com foco total no off-road e facilidade de personalização.",
+    "foto": "./img/jimmy.jpg"
+  },
+  {
+    "nome": "Porsche Cayenne",
+    "categoria": "suv",
+    "marca": "Porsche",
+    "modelo": "Turbo S E-Hybrid",
+    "descricao": "SUV esportivo de altíssima performance, combinando luxo e potência de superesportivo.",
+    "foto": "./img/porsche.jpg"
+  },
+  {
+    "nome": "Ford Ranger",
+    "categoria": "picape",
+    "marca": "Ford",
+    "modelo": "Limited",
+    "descricao": "Picape média com alto nível de tecnologia, conforto e motor diesel potente.",
+    "foto": "./img/ranger.jpg"
+  },
+  {
+    "nome": "Mitsubishi L200",
+    "categoria": "picape",
+    "marca": "Mitsubishi",
+    "modelo": "Triton Sport HPE-S",
+    "descricao": "Picape robusta com foco no off-road pesado, reconhecida pelo sistema de tração 4x4.",
+    "foto": "./img/l200.jpg"
+  },
+  {
+    "nome": "Nissan Frontier",
+    "categoria": "picape",
+    "marca": "Nissan",
+    "modelo": "Platinum",
+    "descricao": "Picape média com design imponente e suspensão multilink confortável na traseira.",
+    "foto": "./img/frontier.jpg"
+  },
+  {
+    "nome": "RAM 1500",
+    "categoria": "picape",
+    "marca": "RAM",
+    "modelo": "Rebel",
+    "descricao": "Picape grande V8, luxuosa, com interior extremamente refinado e suspensão a ar.",
+    "foto": "./img/ram.jpg"
+  },
+  {
+    "nome": "Chevrolet S10",
+    "categoria": "picape",
+    "marca": "Chevrolet",
+    "modelo": "High Country",
+    "descricao": "Picape tradicional com motor diesel forte e alto torque, ideal para trabalho e lazer.",
+    "foto": "./img/s10.jpg"
+  },
+  {
+    "nome": "Fiat Toro",
+    "categoria": "picape",
+    "marca": "Fiat",
+    "modelo": "Ultra",
+    "descricao": "Picape monobloco intermediária, versátil, combinando o conforto de um SUV com caçamba.",
+    "foto": "./img/toro.jpg"
+  },
+  {
+    "nome": "Renault Oroch",
+    "categoria": "picape",
+    "marca": "Renault",
+    "modelo": "Outsider",
+    "descricao": "Picape compacta-média derivada do Duster, oferecendo bom espaço interno e caçamba razoável.",
+    "foto": "./img/oroch.jpg"
+  },
+  {
+    "nome": "Volkswagen Saveiro",
+    "categoria": "picape",
+    "marca": "Volkswagen",
+    "modelo": "Cross CD",
+    "descricao": "Picape compacta leve, robusta, focada no trabalho com uma versão mais equipada para lazer.",
+    "foto": "./img/saveiro.jpg"
+  },
+  {
+    "nome": "Toyota Hilux",
+    "categoria": "picape",
+    "marca": "Toyota",
+    "modelo": "SRX Plus",
+    "descricao": "Picape sinônimo de robustez, durabilidade lendária e excelente valor de revenda.",
+    "foto": "./img/hillux.jpg"
+  },
+  {
+    "nome": "Chevrolet Montana",
+    "categoria": "picape",
+    "marca": "Chevrolet",
+    "modelo": "Premier",
+    "descricao": "Picape compacta moderna com foco em conforto e dirigibilidade próxima a de um SUV.",
+    "foto": "./img/montana.jpg"
+  }
+]

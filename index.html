@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>GuiaAutoPro</h1>
+        <div class="pesquisar" style="display: none;">
+            <input type="text" placeholder="Digite um carro desejado">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
+    <main>
+        <section class="filtro">
+
+            <button onclick='buscarCarro("hatch")'>Hatch</button>
+            <button onclick='buscarCarro("sedan")'>Sedan</button>
+            <button onclick='buscarCarro("suv")'>Suv</button>
+            <button onclick='buscarCarro("picape")'>Picape</button>
+            <button onclick='iniciarBusca()'>Todos</button>
+
+        </section>
+
+        <section class="apresentacao">
+            <h2>Bem-vindo ao GuiaAutoPro – Seu Portal Completo Sobre o Mundo dos Automóveis!</h2>
+            <p>No GuiaAutoPro, você encontra tudo o que precisa para escolher o carro ideal. Aqui, reunimos informações
+                claras, atualizadas e detalhadas sobre os mais diversos modelos do mercado — desde compactos econômicos
+                até SUVs robustos e picapes potentes.</p>
+
+            <p>Nosso objetivo é ajudar você a tomar decisões com confiança. Por isso, oferecemos:</p>
+
+            <ul>
+                <li>Ficha técnica completa de cada veículo</li>
+                <li>Avaliações objetivas e comparativos</li>
+                <li>Informações sobre consumo, desempenho e segurança</li>
+                <li>Dicas de manutenção e cuidados</li>
+                <li>Conteúdos pensados para quem ama carros, seja você um iniciante ou um verdadeiro entusiasta</li>
+            </ul>
+
+
+            <p>Explore, compare e descubra o melhor que cada modelo pode oferecer.
+                Onde quer que você esteja na sua jornada automotiva, o GuiaAutoPro é o lugar certo para encontrar as
+                respostas.</p>
+
+            <p>GuiaAutoPro – A rota certa para conhecer o carro dos seus sonhos.</p>
+
+            <button onclick="ExibirTodosCarros()"> Ver todos os Carros</button>
+
+        </section>
+        <section class="card-container">
+
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li><a href="https://www.instagram.com/jrobertomoraes28/" target="_blank">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/in/jose-roberto-441623360/" target="_blank">Linkedin</a></li>
+        </ul>
+       <p> criado por: José Roberto Moraes Lima</p>  
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
