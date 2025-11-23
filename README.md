@@ -8,10 +8,14 @@ Objetivo:	Demonstrar a criação de um aplicativo web estático e responsivo uti
 Foco:	Usabilidade (UX), Estrutura de Dados (data.json) e Responsividade.
 ________________________________________
 Geral e Propósito do Projeto
+
 O Que é o GuiaAutoPro?
+
 •	Problema Endereçado: A necessidade de uma plataforma rápida e limpa para visualizar e filtrar informações detalhadas sobre modelos de carros, eliminando a sobrecarga de informações de grandes portais.
+
 •	A Solução: Um guia automotivo digital que permite aos usuários explorar uma lista abrangente de veículos, segmentados por categorias (Hatch, Sedan, SUV, Picape) e pesquisáveis por nome ou descrição.
 •	Público-Alvo: Entusiastas de carros, compradores em potencial e qualquer pessoa que busque informações objetivas sobre modelos específicos.
+
 Principais Funcionalidades
 1.	Carregamento Assíncrono de Dados: Os dados são carregados de um arquivo local (data.json) usando fetch.
 2.	Visualização em Cards: Cada carro é exibido em um card informativo com imagem, nome, categoria, modelo e descrição.
@@ -19,12 +23,15 @@ Principais Funcionalidades
 4.	Busca em Tempo Real: Um campo de busca que filtra os resultados dinamicamente (conforme o usuário digita) por nome ou descrição do veículo.
 ________________________________________
 Estrutura Técnica (Front-end)
-Tecnologias Utilizadas
-Componente	Tecnologia	Função Principal
+
 Estrutura	HTML5 (index.html):	Define a estrutura semântica da página, incluindo header, main, footer, seção de apresentação, filtros e o card-container.
+
 Estilização	CSS3 (style.css):	Cria o layout visual, define cores, tipografia, e aplica o design responsivo (usando Media Queries).
+
 Interatividade	JavaScript Vanilla (script.js):	Gerencia a lógica de carregamento, manipulação do DOM, filtros, e a busca dinâmica.
+
 Dados	JSON (data.json):	Serve como a "API" local, fornecendo uma lista estruturada de 40 carros com atributos como nome, categoria, marca, modelo, descrição e foto.
+
 ________________________________________
 Análise do script.js (JavaScript)
 🧠 Lógica e Manipulação do DOM
