@@ -1,13 +1,11 @@
 # GuiaAutoPro
 "GuiaAutoPro: Uma plataforma web responsiva para visualização e filtragem de carros. Desenvolvido com HTML, CSS Grid/Flexbox e JavaScript Vanilla. Apresenta busca dinâmica e carregamento de dados via fetch de um arquivo JSON."
 
-Título e Introdução
 GuiaAutoPro: Seu Portal Completo de Referência Automotiva
 Um Estudo de Caso de Desenvolvimento Web Front-end
-Tópico	Detalhe
 Apresentador(a)	Jose Roberto Moraes Lima
-Objetivo	Demonstrar a criação de um aplicativo web estático e responsivo utilizando HTML, CSS e JavaScript Vanilla para carregar, exibir e filtrar dados dinamicamente.
-Foco	Usabilidade (UX), Estrutura de Dados (data.json) e Responsividade.
+Objetivo:	Demonstrar a criação de um aplicativo web estático e responsivo utilizando HTML, CSS e JavaScript Vanilla para carregar, exibir e filtrar dados dinamicamente.
+Foco:	Usabilidade (UX), Estrutura de Dados (data.json) e Responsividade.
 ________________________________________
 Geral e Propósito do Projeto
 O Que é o GuiaAutoPro?
@@ -23,10 +21,10 @@ ________________________________________
 Estrutura Técnica (Front-end)
 Tecnologias Utilizadas
 Componente	Tecnologia	Função Principal
-Estrutura	HTML5 (index.html)	Define a estrutura semântica da página, incluindo header, main, footer, seção de apresentação, filtros e o card-container.
-Estilização	CSS3 (style.css)	Cria o layout visual, define cores, tipografia, e aplica o design responsivo (usando Media Queries).
-Interatividade	JavaScript Vanilla (script.js)	Gerencia a lógica de carregamento, manipulação do DOM, filtros, e a busca dinâmica.
-Dados	JSON (data.json)	Serve como a "API" local, fornecendo uma lista estruturada de 40 carros com atributos como nome, categoria, marca, modelo, descrição e foto.
+Estrutura	HTML5 (index.html):	Define a estrutura semântica da página, incluindo header, main, footer, seção de apresentação, filtros e o card-container.
+Estilização	CSS3 (style.css):	Cria o layout visual, define cores, tipografia, e aplica o design responsivo (usando Media Queries).
+Interatividade	JavaScript Vanilla (script.js):	Gerencia a lógica de carregamento, manipulação do DOM, filtros, e a busca dinâmica.
+Dados	JSON (data.json):	Serve como a "API" local, fornecendo uma lista estruturada de 40 carros com atributos como nome, categoria, marca, modelo, descrição e foto.
 ________________________________________
 Análise do script.js (JavaScript)
 🧠 Lógica e Manipulação do DOM
@@ -56,13 +54,4 @@ Detalhes de Estilização (style.css)
 •	Ajuste do Header/Busca: O header se torna full-width, e os elementos de busca e botão se separam para ocupar o espaço de forma legível (e não compactada).
 •	Ajuste do Card-Container: A chave da responsividade: a regra grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)) permite que o grid mude automaticamente o número de colunas, garantindo que os cards nunca fiquem muito pequenos ou muito grandes.
 •	Footer: O position: absolute foi alterado para position: relative para garantir que o rodapé apareça corretamente no final do conteúdo em telas pequenas, e não fixo no fundo da viewport.
-________________________________________
-Demonstração e Conclusão
-🚀 Demonstração
-(Neste ponto, você faria uma breve demonstração ao vivo)
-1.	Exibir Todos os Carros: Clique no botão e mostre o carregamento dos dados.
-2.	Busca em Tempo Real: Digite "Ford" ou "diesel" e mostre a lista se filtrando instantaneamente.
-3.	Filtro Categoria: Clique em "SUV" e "Picape" para mostrar o filtro.
-4.	Responsividade: Redimensione a janela do navegador para mostrar o ajuste do header e a mudança do grid de cards (de 4 para 2 ou 1 coluna).
-Conclusão
-•	O GuiaAutoPro é uma aplicação single-page eficiente que demonstra a capacidade de construir uma interface de usuário complexa e responsiva utilizando apenas HTML, CSS e JavaScript Vanilla.
+
